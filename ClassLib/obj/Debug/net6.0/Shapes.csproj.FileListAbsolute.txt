@@ -1,0 +1,12 @@
+E:\OneDrive\Projects\c#\ClassLib\ClassLib\bin\Debug\net6.0\Shapes.deps.json
+E:\OneDrive\Projects\c#\ClassLib\ClassLib\bin\Debug\net6.0\Shapes.dll
+E:\OneDrive\Projects\c#\ClassLib\ClassLib\bin\Debug\net6.0\Shapes.pdb
+E:\OneDrive\Projects\c#\ClassLib\ClassLib\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+E:\OneDrive\Projects\c#\ClassLib\ClassLib\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Projects\c#\ClassLib\ClassLib\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+E:\OneDrive\Projects\c#\ClassLib\ClassLib\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+E:\OneDrive\Projects\c#\ClassLib\ClassLib\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+E:\OneDrive\Projects\c#\ClassLib\ClassLib\obj\Debug\net6.0\Shapes.dll
+E:\OneDrive\Projects\c#\ClassLib\ClassLib\obj\Debug\net6.0\refint\Shapes.dll
+E:\OneDrive\Projects\c#\ClassLib\ClassLib\obj\Debug\net6.0\Shapes.pdb
+E:\OneDrive\Projects\c#\ClassLib\ClassLib\obj\Debug\net6.0\ref\Shapes.dll
